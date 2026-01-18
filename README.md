@@ -9,18 +9,18 @@ For my challenges, I didn’t use Fusion 360 or KiCad at all before. In KiCad I 
 I googled so much and I personally think that it's a stupid piece of software, but I'm pretty proud of my self and my HackPad. The most difficult part for me was probably designing the case because as I mentioned before Fusion 360 is a stupid piece of software.
 
 ## Specifications
-BOM:
--9x Cherry MX Switches
--2x SK6812 MINI Leds
--1x XIAO RP2040
--4x Blank DSA Keycaps
--4x M3x16 Bolt
--4x M3 Heatset
+BOM: 
+- 9x Cherry MX Switches
+- 2x SK6812 MINI Leds
+- 1x XIAO RP2040
+- 9x Blank DSA Keycaps
+- 4x M3x16 Bolt
+- 4x M3 Heatset
 
 Others:
--KMK Firmware
--ClicksmithPlateCase.step
--ClicksmithBottomCase.step
+- KMK Firmware
+- ClicksmithPlateCase.step 
+- ClicksmithBottomCase.step.stl
 
 ## PCB
 Schematic
