@@ -22,7 +22,7 @@ Others:
 - ClicksmithPlateCase.step 
 - ClicksmithBottomCase.step.stl
 
-## PCB
+## Images
 Schematic
 <img width="1544" height="948" alt="kicad_oeTRVcAlRc" src="https://github.com/user-attachments/assets/a304a774-2ae2-41ae-aa0c-474a9d6f569b" />
 PCB
