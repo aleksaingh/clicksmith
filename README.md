@@ -23,9 +23,9 @@ Others:
 -ClicksmithBottomCase.step
 
 ## PCB
-# Schematic
+Schematic
 <img width="1544" height="948" alt="kicad_oeTRVcAlRc" src="https://github.com/user-attachments/assets/a304a774-2ae2-41ae-aa0c-474a9d6f569b" />
-# PCB
+PCB
 <img width="1626" height="914" alt="kicad_1d8SucjeOv" src="https://github.com/user-attachments/assets/f875ebfb-f5a5-41fc-bd18-383a7d265196" />
-# Case
+Case
 <img width="1920" height="890" alt="Fusion360_gkLFobPOWs" src="https://github.com/user-attachments/assets/f8c99bd1-57e7-43b3-a74e-b11040b18b3a" />
