@@ -1,6 +1,6 @@
-# clicksmith
+# Clicksmith
 Clicksmith is a 3x3 macropad and it uses KMK firmware
-<img width="1920" height="890" alt="Fusion360_3AjfNN2PKC" src="https://github.com/user-attachments/assets/b1484266-9516-4a5b-82da-963f3b047329" />
+<img width="1920" height="890" alt="Fusion360_7dRLFfyzRX" src="https://github.com/user-attachments/assets/439bdc55-ced4-4ebd-96d5-b90c206dac5e" />
 
 I mostly built it because I just want a macropad laying around for macros and etc, that was my inspiration
 
@@ -19,13 +19,13 @@ BOM:
 
 Others:
 - KMK Firmware
-- ClicksmithPlateCase.step 
-- ClicksmithBottomCase.step.stl
+- ClicksmithTop.step (This is the plate)
+- ClicksmithBottom.step
 
 ## Images
 Schematic
-<img width="1544" height="948" alt="kicad_oeTRVcAlRc" src="https://github.com/user-attachments/assets/a304a774-2ae2-41ae-aa0c-474a9d6f569b" />
+<img width="1544" height="948" alt="kicad_QC83gfquji" src="https://github.com/user-attachments/assets/4ca56c05-6257-46c7-a44c-3a89e6067014" />
 PCB
-<img width="1626" height="914" alt="kicad_1d8SucjeOv" src="https://github.com/user-attachments/assets/f875ebfb-f5a5-41fc-bd18-383a7d265196" />
+<img width="1626" height="914" alt="kicad_hsw0su6HGr" src="https://github.com/user-attachments/assets/e269c69e-815e-4287-affc-b3eb10ad607f" />
 Case
-<img width="1920" height="890" alt="Fusion360_gkLFobPOWs" src="https://github.com/user-attachments/assets/f8c99bd1-57e7-43b3-a74e-b11040b18b3a" />
+<img width="1920" height="890" alt="Fusion360_69LoWRfZN4" src="https://github.com/user-attachments/assets/f3df2d14-9424-4f2e-8ee9-63de8e7bdefb" />
