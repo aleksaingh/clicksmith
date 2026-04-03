@@ -55,4 +55,4 @@ while True:
             last_debounce[i] = now
             leds[color_index].value = True
             color_index = (color_index + 1) % 3
-    time.sleep(0.001)  3364646779678
+    time.sleep(0.001)
