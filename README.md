@@ -1,5 +1,5 @@
 # Clicksmith
-Clicksmith is a 3x3 macropad and it uses KMK firmware
+Clicksmith is a 3x3 macropad and it uses Custom HID via adafruit_hid firmware
 <img width="1920" height="890" alt="Fusion360_7dRLFfyzRX" src="https://github.com/user-attachments/assets/439bdc55-ced4-4ebd-96d5-b90c206dac5e" />
 
 I mostly built it because I just want a macropad laying around for macros and etc, that was my inspiration
@@ -18,7 +18,7 @@ BOM:
 - 4x M3 Heatset
 
 Others:
-- KMK Firmware
+- Custom HID firmware
 - ClicksmithTop.step (This is the plate)
 - ClicksmithBottom.step
 
